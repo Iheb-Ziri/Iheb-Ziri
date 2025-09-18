@@ -70,7 +70,7 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
 
 | Choose your language         | Flags                                                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" /> |
+| [EN-US](./README.md)       | <img width="7%" alt="Node4Devs Logo" title="United States Flag (USA)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" /> |
 | [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
 | [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
 
