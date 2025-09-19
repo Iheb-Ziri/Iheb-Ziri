@@ -30,8 +30,8 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
 - 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: aziz.270700@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
+- 📫 How to reach me: ziri.iheb.education@gmail.com.
+- 😄 Pronouns: HOUBA.
 -->
 
 
@@ -55,7 +55,7 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Iheb-Ziri&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Iheb-ziri&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iheb-Ziri)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iheb-Ziri&&theme=algolia" alt="AzizBenIsmail" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iheb-Ziri&&theme=algolia" alt="Iheb-Ziri" /></p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Iheb-ziri&theme=react)
 
@@ -79,8 +79,8 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Iheb-Ziri&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/Iheb-Ziri/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?usernameIheb-Ziri&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/Iheb-Ziri/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 -->
 
