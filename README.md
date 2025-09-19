@@ -9,7 +9,7 @@
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
-
+<br><br>
 I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy creating content, working on projects, and developing my skills through new experiences. My goal is to grow as a developer and contribute to impactful tech solutions.
 
 <!-- Let's Connect..! -->
