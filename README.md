@@ -34,7 +34,7 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
 - 😄 Pronouns: HOUBA.
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iheb-Ziri&stats_format=bytes)
+
 
 <!-- Skills  -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -48,11 +48,11 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
 
 
 <!-- Github Stats   -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iheb-Ziri&stats_format=bytes)
 
-<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
--->
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Iheb-Ziri&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Iheb-ziri&show_icons=true&theme=radical)
