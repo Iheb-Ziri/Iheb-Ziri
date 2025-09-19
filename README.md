@@ -13,7 +13,7 @@
 I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy creating content, working on projects, and developing my skills through new experiences. My goal is to grow as a developer and contribute to impactful tech solutions.
 
 <!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="100">
 
 [![Linkedin Badge](https://img.shields.io/badge/-IhebZiri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iheb-ziri-a34b3632a/)
 [![Mail Badge](https://img.shields.io/badge/-IhebZiri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ziri.iheb.education@gmail.com)
