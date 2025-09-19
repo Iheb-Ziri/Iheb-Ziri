@@ -57,7 +57,7 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Iheb-Ziri&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Iheb-ziri&show_icons=true&theme=radical)
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iheb-Ziri)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iheb-Ziri)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iheb-Ziri&&theme=algolia" alt="Iheb-Ziri" /></p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Iheb-ziri&theme=react)
