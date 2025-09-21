@@ -90,11 +90,7 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iheb-Ziri/Iheb-Ziri/output/pacman-contribution-graph.svg">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+
 Credit: [Iheb Ziri](https://github.com/Iheb-Ziri)
 
 
