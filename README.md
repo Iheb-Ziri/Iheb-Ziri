@@ -85,12 +85,12 @@ I'm Iheb Ziri, a student at ESPRIT in Tunisia 💻. At 21 years old, I enjoy cre
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?usernameIheb-Ziri&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/Iheb-Ziri/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 -->
-<!--PACMAN MODE LIGHT-->
+<!--PACMAN MODE LIGHT
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iheb-Ziri/Iheb-Ziri/output/pacman-contribution-graph.svg">
-</picture>
+</picture>-->
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
